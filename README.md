@@ -1,2 +1,2 @@
-# uas_grafkom_1
+# UAS_Grafkom-PACMAN
 *Kelompok 1
